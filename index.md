@@ -8,3 +8,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [X] Primer task
+- [ ] Segundo task
+- [ ] tercer task
